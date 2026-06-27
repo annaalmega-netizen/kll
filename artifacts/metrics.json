@@ -1,0 +1,17 @@
+{
+  "best_model": "random_forest",
+  "primary_metric": "rmse",
+  "target": "Skill_Retention_Score",
+  "models": {
+    "linear": {
+      "rmse": 11.964517561240394,
+      "mae": 9.67525592454266,
+      "r2": 0.1879175950849482
+    },
+    "random_forest": {
+      "rmse": 11.886322295902836,
+      "mae": 9.597681500834256,
+      "r2": 0.19849779446765503
+    }
+  }
+}
